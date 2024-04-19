@@ -1,0 +1,4 @@
+A1: Takes one of the XML files and a range of dates then prints out all events within that range in the required format. The tests provide an example of the required format
+A2: Same idea as A1 but in python and we were not allowed to use certain libraries that would make certain tasks ,like parsing the XML, trivial. 
+A3 Same idea as A1 and A2 but back in C and with further requirements that made the data harder to parse. The textbook implementation of a linked list in C was provided and used as part of the solution. 
+A4: It was required to structure the programs in such a way that everything was connected to a python class. It uses random numbers to generate simple html art. 

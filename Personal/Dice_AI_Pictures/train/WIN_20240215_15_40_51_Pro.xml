@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>WIN_20240215_15_40_51_Pro.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>800</width>
+<height>600</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>d10 7</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>36</xmin>
+<ymin>287</ymin>
+<xmax>116</xmax>
+<ymax>373</ymax>
+</bndbox>
+</object>
+<object>
+<name>d4 3</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>506</xmin>
+<ymin>447</ymin>
+<xmax>581</xmax>
+<ymax>530</ymax>
+</bndbox>
+</object>
+<object>
+<name>d6 4</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>630</xmin>
+<ymin>381</ymin>
+<xmax>705</xmax>
+<ymax>460</ymax>
+</bndbox>
+</object>
+<object>
+<name>d8 7</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>686</xmin>
+<ymin>266</ymin>
+<xmax>757</xmax>
+<ymax>331</ymax>
+</bndbox>
+</object>
+<object>
+<name>d20 12</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>426</xmin>
+<ymin>227</ymin>
+<xmax>511</xmax>
+<ymax>317</ymax>
+</bndbox>
+</object>
+<object>
+<name>d12 9</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>402</xmin>
+<ymin>339</ymin>
+<xmax>483</xmax>
+<ymax>414</ymax>
+</bndbox>
+</object>
+</annotation>
